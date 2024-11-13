@@ -2,7 +2,7 @@
 
 This is a simple task list web application where you can add and delete tasks. It is built using HTML, CSS and JavaScript.
 
-> To view this project in your browser you can click [here](https://js-production-f879.up.railway.app/).
+> To view this project in your browser you can click [here](https://js-production-92fd.up.railway.app/).
 
 ## Technologies used
 
